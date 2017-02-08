@@ -1,0 +1,13 @@
+
+caption{
+  font-size: 25px;
+  font-weight: bolder;
+  font-family: serif;
+  padding: 10px;
+}
+table,th, td{
+border: 1px solid red;
+}
+table{
+  border-collapse: collapse;
+}
