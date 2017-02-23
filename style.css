@@ -11,3 +11,8 @@ border: 1px solid red;
 table{
   border-collapse: collapse;
 }
+img{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
