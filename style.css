@@ -12,7 +12,12 @@ table{
   border-collapse: collapse;
 }
 img{
-	position: absolute;
-	top: 0px;
-	right: 0px;
+	
+	/*position:fixed;*/
+	top: 10px;
+	right: 20px;
 }
+/*img{
+	float:right;
+	margin-top: 0px;
+}*/
